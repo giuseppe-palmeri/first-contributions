@@ -112,6 +112,7 @@
 - [Juan Romero Garcia](https://github.com/juanluis-rg/)
 - [Somil Jain](https://github.com/UchihaSomil)
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
+- [Giuseppe Palmeri](https://github.com/giuseppe-palmeri)
 - [Steven Engle](https://github.com/steengle)
 - [Kishore](https://github.com/kishore-s-15)
 - [Sarvesh Prajapati](https://github.com/sarveshprajapati)
